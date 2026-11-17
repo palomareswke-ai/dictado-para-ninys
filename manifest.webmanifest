@@ -1,12 +1,12 @@
 {
-  "name": "Dictado para niñ@s",
-  "short_name": "Dictado",
-  "description": "Aplicación web inclusiva de dictado para niñ@s.",
+  "name": "Repàs de dictats",
+  "short_name": "Dictats",
+  "description": "Aplicació web inclusiva per practicar dictats.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f2f7ff",
   "theme_color": "#2456a6",
-  "lang": "es",
+  "lang": "ca",
   "icons": [
     {
       "src": "icon.svg",
